@@ -1,0 +1,15 @@
+{
+	"files.associations": {
+		"*.v": "verilog",
+		"*.c": "c",
+		"winsock.h": "c",
+		"time.h": "c",
+		"signal.h": "c",
+		"ws2tcpip.h": "c",
+		"winsock2.h": "c",
+		"string.h": "c",
+		"stdio.h": "c",
+		"stdlib.h": "c",
+		"types.h": "c"
+	}
+}
